@@ -1,0 +1,46 @@
+INFO    2022-04-05 14:50:33,266 [main] base.BaseTest  - OR properties loaded
+INFO    2022-04-05 14:50:33,268 [main] base.BaseTest  - Config properties loaded
+INFO    2022-04-05 14:50:37,090 [main] base.BaseTest  - Chrome Driver launched
+INFO    2022-04-05 14:50:41,537 [main] base.BaseTest  - OR properties loaded
+INFO    2022-04-05 14:50:41,537 [main] base.BaseTest  - Config properties loaded
+INFO    2022-04-05 14:50:42,906 [main] base.BaseTest  - Chrome Driver launched
+INFO    2022-04-05 14:50:56,416 [main] base.BaseTest  - Clicking on the element coursePageLink_xp
+INFO    2022-04-13 10:53:08,701 [main] base.BaseTest  - OR properties loaded
+INFO    2022-04-13 10:53:08,704 [main] base.BaseTest  - Config properties loaded
+INFO    2022-04-13 10:53:26,402 [main] base.BaseTest  - Chrome Driver launched
+INFO    2022-04-13 10:53:32,712 [main] base.BaseTest  - OR properties loaded
+INFO    2022-04-13 10:53:32,712 [main] base.BaseTest  - Config properties loaded
+INFO    2022-04-13 10:53:33,927 [main] base.BaseTest  - Chrome Driver launched
+INFO    2022-04-13 10:53:51,598 [main] base.BaseTest  - Clicking on the element coursePageLink_xp
+INFO    2022-05-25 18:18:38,089 [main] base.BaseTest  - OR properties loaded
+INFO    2022-05-25 18:18:38,092 [main] base.BaseTest  - Config properties loaded
+INFO    2022-05-25 18:18:58,535 [main] base.BaseTest  - Chrome Driver launched
+INFO    2022-05-25 18:19:05,506 [main] base.BaseTest  - OR properties loaded
+INFO    2022-05-25 18:19:05,507 [main] base.BaseTest  - Config properties loaded
+INFO    2022-05-25 18:19:07,350 [main] base.BaseTest  - Chrome Driver launched
+INFO    2022-05-25 18:19:26,956 [main] base.BaseTest  - Clicking on the element coursePageLink_xp
+INFO    2022-05-25 18:24:16,928 [main] base.BaseTest  - OR properties loaded
+INFO    2022-05-25 18:24:16,930 [main] base.BaseTest  - Config properties loaded
+INFO    2022-05-25 18:24:21,847 [main] base.BaseTest  - Chrome Driver launched
+INFO    2022-05-25 18:24:44,791 [main] base.BaseTest  - Clicking on the element coursePageLink_xp
+INFO    2022-05-25 18:32:05,456 [main] base.BaseTest  - OR properties loaded
+INFO    2022-05-25 18:32:05,458 [main] base.BaseTest  - Config properties loaded
+INFO    2022-05-25 18:32:09,321 [main] base.BaseTest  - Chrome Driver launched
+INFO    2022-05-25 18:32:12,545 [main] base.BaseTest  - OR properties loaded
+INFO    2022-05-25 18:32:12,545 [main] base.BaseTest  - Config properties loaded
+INFO    2022-05-25 18:32:13,751 [main] base.BaseTest  - Chrome Driver launched
+INFO    2022-05-25 18:32:27,040 [main] base.BaseTest  - Clicking on the element coursePageLink_xp
+INFO    2022-05-25 18:36:26,257 [main] base.BaseTest  - OR properties loaded
+INFO    2022-05-25 18:36:26,258 [main] base.BaseTest  - Config properties loaded
+INFO    2022-05-25 18:36:30,984 [main] base.BaseTest  - Chrome Driver launched
+INFO    2022-05-25 18:36:35,189 [main] base.BaseTest  - OR properties loaded
+INFO    2022-05-25 18:36:35,189 [main] base.BaseTest  - Config properties loaded
+INFO    2022-05-25 18:36:36,841 [main] base.BaseTest  - Chrome Driver launched
+INFO    2022-05-25 18:36:50,218 [main] base.BaseTest  - Clicking on the element coursePageLink_xp
+INFO    2022-05-25 18:37:14,968 [main] base.BaseTest  - OR properties loaded
+INFO    2022-05-25 18:37:14,970 [main] base.BaseTest  - Config properties loaded
+INFO    2022-05-25 18:37:18,690 [main] base.BaseTest  - Chrome Driver launched
+INFO    2022-05-25 18:37:22,874 [main] base.BaseTest  - OR properties loaded
+INFO    2022-05-25 18:37:22,875 [main] base.BaseTest  - Config properties loaded
+INFO    2022-05-25 18:37:25,087 [main] base.BaseTest  - Chrome Driver launched
+INFO    2022-05-25 18:37:38,419 [main] base.BaseTest  - Clicking on the element coursePageLink_xp
